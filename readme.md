@@ -5,7 +5,7 @@ PoC for bigquery client that exposes an echo server (REST)
 
 # golang-options-pizza
 demonstrating using the go options pattern
-
+from the [article](https://blog.matthiasbruns.com/golang-options-vs-builder-pattern)
 # server-fp-pattern-option2
 creating a server with limited configuration capabilities
 
